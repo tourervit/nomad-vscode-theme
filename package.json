@@ -6,6 +6,17 @@
     "engines": {
         "vscode": "^1.60.0"
     },
+		"repository": {
+			"type": "git",
+			"url": "https://github.com/tourervit/nomad-vscode-theme"
+		},
+		"keywords": [
+			"Theme",
+			"Dark Theme",
+			"Nomad",
+			"Remote",
+			"Coding"
+		],
     "categories": [
         "Themes"
     ],

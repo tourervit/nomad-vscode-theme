@@ -1,0 +1,31 @@
+{
+    "name": "nomad",
+    "displayName": "Nomad",
+    "description": "Professional theme for remote jedis.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nomad Bali",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nomad Bali-color-theme.json"
+            },
+            {
+                "label": "Nomad Bali Lighter",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nomad Bali Lighter-color-theme.json"
+            },
+            {
+                "label": "Nomad Bali Darker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nomad Bali Darker-color-theme.json"
+            }
+        ]
+    }
+}

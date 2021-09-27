@@ -21,9 +21,13 @@ Professional dark theme for remote jedis. For Pros By Pros.
 ## Preferences shown in the preview
 
 The font in the preview image is MesloLGS NF. Which is similar to Menlo.
-Cutsom UI: [Customize UI](https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui)
+
+Custom UI: [Customize UI](https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui)
+
 Color brackets: [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
+
 Brackets subtle underline: [Subtle Match Brackets](https://marketplace.visualstudio.com/items?itemName=rafamel.subtle-brackets)
+
 Icons: None
 
 ```

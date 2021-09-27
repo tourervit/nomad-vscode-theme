@@ -2,6 +2,7 @@
     "name": "nomad",
     "displayName": "Nomad",
     "description": "Professional theme for remote jedis.",
+		"publisher": "coder4real",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.60.0"
